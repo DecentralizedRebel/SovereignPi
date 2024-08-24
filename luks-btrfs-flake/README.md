@@ -15,7 +15,7 @@ This Nix flake provides an easy and secure way to set up LUKS encryption on a st
 
 2. **Clone the Repository**:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/DecentralizedRebel/SovereignPi.git
    cd luks-btrfs-flake
    ```
 
