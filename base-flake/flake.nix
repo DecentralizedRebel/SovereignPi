@@ -47,4 +47,3 @@
     packages.${system}.baseSetup = self.defaultPackage.${system};
   };
 }
-§
